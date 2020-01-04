@@ -1,4 +1,3 @@
-#Tic Tac Toe game in python
 
 board = [' ' for x in range(10)]
 
